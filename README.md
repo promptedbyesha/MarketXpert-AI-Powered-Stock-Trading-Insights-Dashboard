@@ -1,4 +1,4 @@
-# MarketXpert-AI-Powered-Stock-Trading-Insights-Dashboard
+
 # 📊 MarketXpert — AI-Powered Stock Trading Insights Dashboard
 
 **MarketXpert** is a generative AI project that turns complex stock data into simplified, digestible insights using well-structured prompt chaining. Built for beginners and intermediate traders, this project showcases the power of AI to generate financial summaries, risk analysis, and action-oriented content — with a clean UI and strategic UX copy.
