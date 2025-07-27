@@ -64,9 +64,10 @@ All responses are curated for **beginner-level readability**, keeping content ac
 ---
 
 ## 📸 Preview
+<img width="1886" height="836" alt="image" src="https://github.com/user-attachments/assets/a2f917f7-1931-4423-aba0-21416c4e4fd0" />
+<img width="1881" height="772" alt="image" src="https://github.com/user-attachments/assets/20b0cc90-4026-4012-a389-89a7ccbc8f93" />
 
-> Add screenshots or a walkthrough video of the dashboard here  
-> Suggested: before/after of raw stock data → AI-generated insight block  
+
 
 ---
 
