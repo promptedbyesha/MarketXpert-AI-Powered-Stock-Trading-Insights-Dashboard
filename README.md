@@ -89,9 +89,10 @@ All responses are curated for **beginner-level readability**, keeping content ac
 ---
 
 ## 📄 License
+This project is **not licensed for reuse or redistribution**.  
+All rights reserved © [Esha Sharma], 2025.  
+Please do not copy, modify, or use this work without prior written permission.
 
-This project is licensed under the **MIT License**.  
-Feel free to use, adapt, or build upon this with credit.
 
 ---
 
