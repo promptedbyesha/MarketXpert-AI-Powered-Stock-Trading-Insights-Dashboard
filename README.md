@@ -99,6 +99,6 @@ Please do not copy, modify, or use this work without prior written permission.
 
 ## 👤 Author
 
-Created by **[Esha Sharma](https://eshadesignportfolio.framer.website)**  
+Created by **Esha Sharma**  
 🔍 Prompt Engineer | ✍️ Content Strategist | 🤖 GenAI Creator  
- [Portfolio](https://eshadesignportfolio.framer.website)
+
